@@ -1,0 +1,30 @@
+Id,Designator,Package,Quantity,Designation
+3,"C3,C4",Ceramic capacitor,2,100n
+4,C5,Ceramic capacitor,1,47nf
+5,"C6,C7,C8,C9,C12,C14,C15,C16",Ceramic capacitor,8,100nf
+6,C10,Ceramic capacitor,1,22nf
+7,C11,Electrolytic Capacitor 16v or higher,1,47uf
+8,"C13,C17,C18,C19",Electrolytic Capacitor 16v or higher,4,1uf
+2,"C1,C2",Electrolytic Capacitor 16v or higher,2,10uf
+9,"D1,D3,D4,D5",D_DO-35_SOD27_P7.62mm_Horizontal  DIODE,4,1N4148
+,"D2,D6,D7,D8",5mm LED,4,LED
+11,"J1,J4,J5,J6,J7,J8,J9",EURORACK POWER CONNECTOR,1,POWER INPUT
+19,"Q2,Q3,Q4,Q5","TO-92_Inline_Wide, Transistor",4,2N3906
+1,"Q8,Q7,Q6,Q1","TO-92_Inline_Wide, Transistor",4,2N3904
+10,"FB1,FB2,R14,R15",Metal Film 1/4 resistor,4,10r
+20,"R1,R28,R47,R48,R50",Metal Film 1/4 resistor,5,47k
+21,"R2,R5,R6,R8,R10,R20,R21,R30,R31,R32,R33,R37,R38,R27,R25,R54,R55,R56,R57,R58,R60,R61,R63,R64,R65,R66",Metal Film 1/4 resistor,26,100k
+22,"R3,R9,R11,R19,R62,R67,R68,R59",Metal Film 1/4 resistor,8,1k
+23,R4,Metal Film 1/4 resistor,1,470k
+24,"R7,R12,R13,R22,R26,R29,R34,R42,R45,R46,R49,R51,R52,R53",Metal Film 1/4 resistor,14,10k
+26,R16,Metal Film 1/4 resistor,1,4k7
+27,R17,Metal Film 1/4 resistor,1,2k2
+30,"R18,R24,R23,R36,R39,R43,R40,R41,R44",Metal Film 1/4 resistor,9,220R
+31,R35,Metal Film 1/4 resistor,1,1M
+32,RV1,Potentiometer_Bourns_3296W_Vertical,1,Trim100k
+33,"U1,U2,U3",DIP-14_W7.62mm_LongPads,3,TL074
+34,"U4,U5",DIP-16_W7.62mm_LongPads,2,LM13700
+35,"J10,J11",CUI_RCJ-013,2,"Send, return"
+37,"J2,J12",PCB INTERCONNECT 10pin MALE AND FEMALE,2,PCB CONNECT
+,SW1,SPDT SWITCH (SINGLE POLE DUAL THROW),1,CROSSFADE
+,"RV2,RV3,RV4,RV5,RV6",B100K POTENTIOMETER_Alps_RK09K_Single_Vertical,5,CTRL

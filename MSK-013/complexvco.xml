@@ -1,0 +1,4164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>E:\synth prj\MSK-013\complexvco.kicad_sch</source>
+    <date>14.10.2022 17:26:25</date>
+    <tool>Eeschema (6.0.6)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>MSK 013 Middle Path VCO</title>
+        <company/>
+        <rev/>
+        <date/>
+        <source>complexvco.kicad_sch</source>
+        <comment number="1" value="$Id: complexvco.kicad_sch 10137 2022-06-04 20:51:54Z mskala $"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd3c3c6</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd11dd6</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e373f11</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e373a4b</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>1200pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e36c8a9</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3ceec9</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3ceebb</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3a757c</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3a756e</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e39ca6e</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>100pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2fa363</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>100pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3043d5</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200954</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200919</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>6800pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e66d478</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>6800pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e66d1e9</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0c00</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0bf2</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>1200pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0a3d</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0bb9</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0bab</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b09ca</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0eb9</tstamps>
+    </comp>
+    <comp ref="C24">
+      <value>100pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0b83</tstamps>
+    </comp>
+    <comp ref="C25">
+      <value>100pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0b1d</tstamps>
+    </comp>
+    <comp ref="C26">
+      <value>100pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0e4d</tstamps>
+    </comp>
+    <comp ref="C27">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3abf64</tstamps>
+    </comp>
+    <comp ref="C28">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3abf72</tstamps>
+    </comp>
+    <comp ref="C29">
+      <value>10uF</value>
+      <footprint>mskala:C1V7msk</footprint>
+      <libsource lib="mskala" part="CP1" description="Polarised capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd4a798</tstamps>
+    </comp>
+    <comp ref="C30">
+      <value>10uF</value>
+      <footprint>mskala:C1V7msk</footprint>
+      <libsource lib="mskala" part="CP1" description="Polarised capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd4b02a</tstamps>
+    </comp>
+    <comp ref="C31">
+      <value>10uF</value>
+      <footprint>mskala:C1V7msk</footprint>
+      <libsource lib="mskala" part="CP1" description="Polarised capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd4b3be</tstamps>
+    </comp>
+    <comp ref="C32">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3f5377</tstamps>
+    </comp>
+    <comp ref="C33">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e4676fb</tstamps>
+    </comp>
+    <comp ref="C34">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e4676fc</tstamps>
+    </comp>
+    <comp ref="C35">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e46a0fb</tstamps>
+    </comp>
+    <comp ref="C36">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e46ce56</tstamps>
+    </comp>
+    <comp ref="C37">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e479bf6</tstamps>
+    </comp>
+    <comp ref="C38">
+      <value>0.1uF</value>
+      <footprint>mskala:C3msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e47c869</tstamps>
+    </comp>
+    <comp ref="C39">
+      <value>100pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3ea58f</tstamps>
+    </comp>
+    <comp ref="C40">
+      <value>100pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e41e3af</tstamps>
+    </comp>
+    <comp ref="C41">
+      <value>100pF</value>
+      <footprint>mskala:C2msk</footprint>
+      <libsource lib="mskala" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3f1506</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N5231B</value>
+      <footprint>mskala:DO35_3msk</footprint>
+      <fields>
+        <field name="Voltage">5.1V</field>
+      </fields>
+      <libsource lib="mskala" part="ZENER" description=""/>
+      <property name="Voltage" value="5.1V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e378bcb</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N5231B</value>
+      <footprint>mskala:DO35_3msk</footprint>
+      <fields>
+        <field name="Voltage">5.1V</field>
+      </fields>
+      <libsource lib="mskala" part="ZENER" description=""/>
+      <property name="Voltage" value="5.1V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e378bcc</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4148</value>
+      <footprint>mskala:DO35_3msk</footprint>
+      <libsource lib="mskala" part="DIODE" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e66dbf6</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N5231B</value>
+      <footprint>mskala:DO35_3msk</footprint>
+      <fields>
+        <field name="Voltage">5.1V</field>
+      </fields>
+      <libsource lib="mskala" part="ZENER" description=""/>
+      <property name="Voltage" value="5.1V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0eeb</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N5231B</value>
+      <footprint>mskala:DO35_3msk</footprint>
+      <fields>
+        <field name="Voltage">5.1V</field>
+      </fields>
+      <libsource lib="mskala" part="ZENER" description=""/>
+      <property name="Voltage" value="5.1V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0aa8</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1N5818</value>
+      <footprint>mskala:DO15msk</footprint>
+      <libsource lib="mskala" part="DIODESCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd49ad9</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>1N5818</value>
+      <footprint>mskala:DO15msk</footprint>
+      <libsource lib="mskala" part="DIODESCH" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd49f01</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>1N5231B</value>
+      <footprint>mskala:DO35_3msk</footprint>
+      <fields>
+        <field name="Voltage">5.1V</field>
+      </fields>
+      <libsource lib="mskala" part="ZENER" description=""/>
+      <property name="Voltage" value="5.1V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3f3c3c</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>1N5231B</value>
+      <footprint>mskala:DO35_3msk</footprint>
+      <fields>
+        <field name="Voltage">5.1V</field>
+      </fields>
+      <libsource lib="mskala" part="ZENER" description=""/>
+      <property name="Voltage" value="5.1V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e33326f</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>1N5231B</value>
+      <footprint>mskala:DO35_3msk</footprint>
+      <fields>
+        <field name="Voltage">5.1V</field>
+      </fields>
+      <libsource lib="mskala" part="ZENER" description=""/>
+      <property name="Voltage" value="5.1V"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3359d0</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>CONN_01X01</value>
+      <footprint>mskala:MountingHole_M3</footprint>
+      <libsource lib="mskala" part="CONN_01X01" description="Connector, single row, 01x01, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e65e092</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>CONN_01X01</value>
+      <footprint>mskala:MountingHole_M3</footprint>
+      <libsource lib="mskala" part="CONN_01X01" description="Connector, single row, 01x01, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e65f0e2</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>CONN_01X01</value>
+      <footprint>mskala:MountingHole_M3</footprint>
+      <libsource lib="mskala" part="CONN_01X01" description="Connector, single row, 01x01, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e65f280</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>CONN_01X01</value>
+      <footprint>mskala:MountingHole_M3</footprint>
+      <libsource lib="mskala" part="CONN_01X01" description="Connector, single row, 01x01, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e65f4ae</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>CONN_01X01</value>
+      <footprint>mskala:MountingHole_M3</footprint>
+      <libsource lib="mskala" part="CONN_01X01" description="Connector, single row, 01x01, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e65f6f7</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>CONN_01X01</value>
+      <footprint>mskala:MountingHole_M3</footprint>
+      <libsource lib="mskala" part="CONN_01X01" description="Connector, single row, 01x01, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e65f6dd</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>CONN_01X01</value>
+      <footprint>mskala:MountingHole_M3</footprint>
+      <libsource lib="mskala" part="CONN_01X01" description="Connector, single row, 01x01, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e65f6ea</tstamps>
+    </comp>
+    <comp ref="H8">
+      <value>CONN_01X01</value>
+      <footprint>mskala:MountingHole_M3</footprint>
+      <libsource lib="mskala" part="CONN_01X01" description="Connector, single row, 01x01, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e65f704</tstamps>
+    </comp>
+    <comp ref="H9">
+      <value>M3x6</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="MachineScrew" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e54ac16</tstamps>
+    </comp>
+    <comp ref="H10">
+      <value>M3x6</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="MachineScrew" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e54aee0</tstamps>
+    </comp>
+    <comp ref="H11">
+      <value>M3x6</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="MachineScrew" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e54b1aa</tstamps>
+    </comp>
+    <comp ref="H12">
+      <value>M3x6</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="MachineScrew" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e54b474</tstamps>
+    </comp>
+    <comp ref="H13">
+      <value>M3x6</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="MachineScrew" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e548cfd</tstamps>
+    </comp>
+    <comp ref="H14">
+      <value>M3x6</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="MachineScrew" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e54a33d</tstamps>
+    </comp>
+    <comp ref="H15">
+      <value>M3x6</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="MachineScrew" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e54a682</tstamps>
+    </comp>
+    <comp ref="H16">
+      <value>M3x6</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="MachineScrew" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e54a94c</tstamps>
+    </comp>
+    <comp ref="H17">
+      <value>nylon</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="Washer" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e54e3ec</tstamps>
+    </comp>
+    <comp ref="H18">
+      <value>nylon</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="Washer" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e552aeb</tstamps>
+    </comp>
+    <comp ref="H19">
+      <value>nylon</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="Washer" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e552c9b</tstamps>
+    </comp>
+    <comp ref="H20">
+      <value>nylon</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="Washer" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e552e36</tstamps>
+    </comp>
+    <comp ref="H21">
+      <value>M3x10</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexStandoff" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e560eb8</tstamps>
+    </comp>
+    <comp ref="H22">
+      <value>M3x10</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexStandoff" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e562a69</tstamps>
+    </comp>
+    <comp ref="H23">
+      <value>M3x10</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexStandoff" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e562d4a</tstamps>
+    </comp>
+    <comp ref="H24">
+      <value>M3x10</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexStandoff" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e562fbf</tstamps>
+    </comp>
+    <comp ref="H25">
+      <value>M3x11</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexStandoff" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e56646e</tstamps>
+    </comp>
+    <comp ref="H26">
+      <value>M3x11</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexStandoff" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e566484</tstamps>
+    </comp>
+    <comp ref="H27">
+      <value>M3x11</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexStandoff" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e566458</tstamps>
+    </comp>
+    <comp ref="H28">
+      <value>M3x11</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexStandoff" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e56649a</tstamps>
+    </comp>
+    <comp ref="H29">
+      <value>M3</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexNut" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e56b05b</tstamps>
+    </comp>
+    <comp ref="H30">
+      <value>M3</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexNut" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e56c534</tstamps>
+    </comp>
+    <comp ref="H31">
+      <value>M3</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexNut" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e56c690</tstamps>
+    </comp>
+    <comp ref="H32">
+      <value>M3</value>
+      <footprint>mskala:Hardware</footprint>
+      <libsource lib="mskala" part="HexNut" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <property name="exclude_from_board"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e56c801</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dcc73a9</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dcc5a29</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e39ca52</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e307bd9</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e381514</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2df1e5</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3043ff</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200b0c</tstamps>
+    </comp>
+    <comp ref="J9">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200afd</tstamps>
+    </comp>
+    <comp ref="J10">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0ca5</tstamps>
+    </comp>
+    <comp ref="J11">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0af3</tstamps>
+    </comp>
+    <comp ref="J12">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0edb</tstamps>
+    </comp>
+    <comp ref="J13">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0a22</tstamps>
+    </comp>
+    <comp ref="J14">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0e31</tstamps>
+    </comp>
+    <comp ref="J15">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e35223f</tstamps>
+    </comp>
+    <comp ref="J16">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3593f3</tstamps>
+    </comp>
+    <comp ref="J17">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e358c89</tstamps>
+    </comp>
+    <comp ref="J18">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3ee27c</tstamps>
+    </comp>
+    <comp ref="J19">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e41e3fc</tstamps>
+    </comp>
+    <comp ref="J20">
+      <value>JACK_2P</value>
+      <footprint>mskala:mono_jack_slotted</footprint>
+      <libsource lib="mskala" part="JACK_2P" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3f1526</tstamps>
+    </comp>
+    <comp ref="J21">
+      <value>CONN_01X10</value>
+      <footprint>mskala:SIP10-socket</footprint>
+      <libsource lib="mskala" part="CONN_01X10" description="Connector, single row, 01x10, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e48cc79</tstamps>
+    </comp>
+    <comp ref="J22">
+      <value>CONN_01X10</value>
+      <footprint>mskala:SIP10-socket</footprint>
+      <libsource lib="mskala" part="CONN_01X10" description="Connector, single row, 01x10, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e48ebf0</tstamps>
+    </comp>
+    <comp ref="J23">
+      <value>CONN_01X10</value>
+      <footprint>mskala:SIP10-socket</footprint>
+      <libsource lib="mskala" part="CONN_01X10" description="Connector, single row, 01x10, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e493702</tstamps>
+    </comp>
+    <comp ref="J24">
+      <value>JUMP</value>
+      <footprint>mskala:SPDTjright</footprint>
+      <libsource lib="mskala" part="SWITCH_INV" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e4ade75</tstamps>
+    </comp>
+    <comp ref="J25">
+      <value>JUMP</value>
+      <footprint>mskala:SPDTjright</footprint>
+      <libsource lib="mskala" part="SWITCH_INV" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e4b3f0c</tstamps>
+    </comp>
+    <comp ref="P1">
+      <value>CONN_02X08</value>
+      <footprint>mskala:2x08ra</footprint>
+      <libsource lib="mskala" part="CONN_02X08" description="Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e49ee33</tstamps>
+    </comp>
+    <comp ref="P2">
+      <value>CONN_01X10</value>
+      <footprint>mskala:SIP10-pins</footprint>
+      <libsource lib="mskala" part="CONN_01X10" description="Connector, single row, 01x10, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e48da1b</tstamps>
+    </comp>
+    <comp ref="P3">
+      <value>CONN_01X10</value>
+      <footprint>mskala:SIP10-pins</footprint>
+      <libsource lib="mskala" part="CONN_01X10" description="Connector, single row, 01x10, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e48ebda</tstamps>
+    </comp>
+    <comp ref="P4">
+      <value>CONN_01X10</value>
+      <footprint>mskala:SIP10-pins</footprint>
+      <libsource lib="mskala" part="CONN_01X10" description="Connector, single row, 01x10, pin header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e4936ec</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>THAT320</value>
+      <footprint>mskala:DIP14msk</footprint>
+      <libsource lib="mskala" part="THAT320" description="THAT320 quad PNP transistor array"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3dbad2 00000000-0000-0000-0000-00005e3abfc8 00000000-0000-0000-0000-00005e41d79b 00000000-0000-0000-0000-00005e361162</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>2N7000</value>
+      <footprint>mskala:TO92Xmsk</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf</datasheet>
+      <libsource lib="mskala" part="2N7000" description="200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e382ae2</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>2N7000</value>
+      <footprint>mskala:TO92Xmsk</footprint>
+      <datasheet>https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf</datasheet>
+      <libsource lib="mskala" part="2N7000" description="200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0cc1</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2dfc65</tstamps>
+    </comp>
+    <comp ref="Q5">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e439a</tstamps>
+    </comp>
+    <comp ref="Q6">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e4fea</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e4fbf</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7e25</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7dd1</tstamps>
+    </comp>
+    <comp ref="Q10">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7d7b</tstamps>
+    </comp>
+    <comp ref="Q11">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7dc2</tstamps>
+    </comp>
+    <comp ref="Q12">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2ec045</tstamps>
+    </comp>
+    <comp ref="Q13">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2ec0b4</tstamps>
+    </comp>
+    <comp ref="Q14">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2ec013</tstamps>
+    </comp>
+    <comp ref="Q15">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2ec098</tstamps>
+    </comp>
+    <comp ref="Q16">
+      <value>2N3904</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="2N3904" description="2N3904 general purpose NPN transistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e349f56</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005ddf7a6a</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dda4d94</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>100k</value>
+      <footprint>mskala:P0915Npot</footprint>
+      <libsource lib="mskala" part="POTUSmnt" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dda179b</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>91k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dddffbb</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100k</value>
+      <footprint>mskala:P0915Npot</footprint>
+      <libsource lib="mskala" part="POTUSmnt" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd8cbb9</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>1.8M</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dde3276</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>100k</value>
+      <footprint>mskala:P0915Npot</footprint>
+      <libsource lib="mskala" part="POTUSmnt" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd93bad</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3e2aa1</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>130k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dda87f7</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>50k</value>
+      <footprint>mskala:3296Pmsk</footprint>
+      <libsource lib="mskala" part="POTUS" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd97150</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>270</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd5c912</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>100</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd541ff</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>6.8k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3d584e</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>8.2k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e36ceb7</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>2.7k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e36ceb6</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>39k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3903ec</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>2.7k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e37de15</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>2.7k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e38a1ec</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e39ca91</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e39ca60</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>2.7k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e396878</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>6.8k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e395cc8</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2f9fa5</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>24k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e30430c</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10k</value>
+      <footprint>mskala:3386Pmsk</footprint>
+      <libsource lib="mskala" part="POTUS" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e36dcea</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>36k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2fa15c</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>12k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3042fe</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>27k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e30438c</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>27k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3043ab</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>27k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3043c7</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2df1d6</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>56k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3a5dc7</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e381530</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>100k</value>
+      <footprint>mskala:P0915Npot</footprint>
+      <libsource lib="mskala" part="POTUSmnt" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e38153f</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e396652</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3043f0</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200a77</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200a13</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>100k</value>
+      <footprint>mskala:P0915Npot</footprint>
+      <libsource lib="mskala" part="POTUSmnt" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200a30</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>91k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200a5b</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>100k</value>
+      <footprint>mskala:P0915Npot</footprint>
+      <libsource lib="mskala" part="POTUSmnt" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2009e7</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>1.8M</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200a69</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>100k</value>
+      <footprint>mskala:P0915Npot</footprint>
+      <libsource lib="mskala" part="POTUSmnt" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2009f6</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3f2bb9</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>130k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200a21</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>50k</value>
+      <footprint>mskala:3296Pmsk</footprint>
+      <libsource lib="mskala" part="POTUS" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200a05</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>270</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200992</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>100</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e200984</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>6.8k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3dbaf1</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>6.8k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e68df8a</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>10k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e68e4b9</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>8.2k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0a59</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>2.7k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0a4b</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>39k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0dc2</tstamps>
+    </comp>
+    <comp ref="R55">
+      <value>2.7k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0b66</tstamps>
+    </comp>
+    <comp ref="R56">
+      <value>2.7k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0da7</tstamps>
+    </comp>
+    <comp ref="R57">
+      <value>10k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0c88</tstamps>
+    </comp>
+    <comp ref="R58">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0c96</tstamps>
+    </comp>
+    <comp ref="R59">
+      <value>2.7k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0c7a</tstamps>
+    </comp>
+    <comp ref="R60">
+      <value>6.8k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0dee</tstamps>
+    </comp>
+    <comp ref="R61">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0b01</tstamps>
+    </comp>
+    <comp ref="R62">
+      <value>24k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0cf7</tstamps>
+    </comp>
+    <comp ref="R63">
+      <value>10k</value>
+      <footprint>mskala:3386Pmsk</footprint>
+      <libsource lib="mskala" part="POTUS" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0d58</tstamps>
+    </comp>
+    <comp ref="R64">
+      <value>36k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0b0f</tstamps>
+    </comp>
+    <comp ref="R65">
+      <value>12k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0d05</tstamps>
+    </comp>
+    <comp ref="R66">
+      <value>27k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0add</tstamps>
+    </comp>
+    <comp ref="R67">
+      <value>27k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0e69</tstamps>
+    </comp>
+    <comp ref="R68">
+      <value>27k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0e5b</tstamps>
+    </comp>
+    <comp ref="R69">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0d73</tstamps>
+    </comp>
+    <comp ref="R70">
+      <value>56k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0ab6</tstamps>
+    </comp>
+    <comp ref="R71">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0e8c</tstamps>
+    </comp>
+    <comp ref="R72">
+      <value>100k</value>
+      <footprint>mskala:P0915Npot</footprint>
+      <libsource lib="mskala" part="POTUSmnt" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0c5a</tstamps>
+    </comp>
+    <comp ref="R73">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0b2b</tstamps>
+    </comp>
+    <comp ref="R74">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3b0e3f</tstamps>
+    </comp>
+    <comp ref="R75">
+      <value>270</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3abf12</tstamps>
+    </comp>
+    <comp ref="R76">
+      <value>100</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3abf20</tstamps>
+    </comp>
+    <comp ref="R77">
+      <value>10k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3abf2e</tstamps>
+    </comp>
+    <comp ref="R78">
+      <value>6.8k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3abfa0</tstamps>
+    </comp>
+    <comp ref="R79">
+      <value>270</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dca9d6f</tstamps>
+    </comp>
+    <comp ref="R80">
+      <value>100</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dcade2a</tstamps>
+    </comp>
+    <comp ref="R81">
+      <value>1M</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dcaf754</tstamps>
+    </comp>
+    <comp ref="R82">
+      <value>6.8k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e35224c</tstamps>
+    </comp>
+    <comp ref="R83">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3f5a34</tstamps>
+    </comp>
+    <comp ref="R84">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e33b33b</tstamps>
+    </comp>
+    <comp ref="R85">
+      <value>100k</value>
+      <footprint>mskala:P0915Npot</footprint>
+      <libsource lib="mskala" part="POTUSmnt" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e33a499</tstamps>
+    </comp>
+    <comp ref="R86">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e33d284</tstamps>
+    </comp>
+    <comp ref="R87">
+      <value>100k</value>
+      <footprint>mskala:P0915Npot</footprint>
+      <libsource lib="mskala" part="POTUSmnt" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e33d2a2</tstamps>
+    </comp>
+    <comp ref="R88">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e33e8f3</tstamps>
+    </comp>
+    <comp ref="R89">
+      <value>100k</value>
+      <footprint>mskala:P0915Npot</footprint>
+      <libsource lib="mskala" part="POTUSmnt" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e33e902</tstamps>
+    </comp>
+    <comp ref="R90">
+      <value>68k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3394ef</tstamps>
+    </comp>
+    <comp ref="R91">
+      <value>27k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e340ddf</tstamps>
+    </comp>
+    <comp ref="R92">
+      <value>27k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e341daf</tstamps>
+    </comp>
+    <comp ref="R93">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e05f9</tstamps>
+    </comp>
+    <comp ref="R94">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e438b</tstamps>
+    </comp>
+    <comp ref="R95">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e4fdb</tstamps>
+    </comp>
+    <comp ref="R96">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e4fb0</tstamps>
+    </comp>
+    <comp ref="R97">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7e16</tstamps>
+    </comp>
+    <comp ref="R98">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7db3</tstamps>
+    </comp>
+    <comp ref="R99">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7ded</tstamps>
+    </comp>
+    <comp ref="R100">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7d42</tstamps>
+    </comp>
+    <comp ref="R101">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2ebfd9</tstamps>
+    </comp>
+    <comp ref="R102">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2ebff5</tstamps>
+    </comp>
+    <comp ref="R103">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2ebfe7</tstamps>
+    </comp>
+    <comp ref="R104">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2ec032</tstamps>
+    </comp>
+    <comp ref="R105">
+      <value>680</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2f2ec8</tstamps>
+    </comp>
+    <comp ref="R106">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e437d</tstamps>
+    </comp>
+    <comp ref="R107">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e4fcd</tstamps>
+    </comp>
+    <comp ref="R108">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e4f78</tstamps>
+    </comp>
+    <comp ref="R109">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7dfb</tstamps>
+    </comp>
+    <comp ref="R110">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7d34</tstamps>
+    </comp>
+    <comp ref="R111">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7ddf</tstamps>
+    </comp>
+    <comp ref="R112">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2e7da4</tstamps>
+    </comp>
+    <comp ref="R113">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2ec075</tstamps>
+    </comp>
+    <comp ref="R114">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2ec088</tstamps>
+    </comp>
+    <comp ref="R115">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e2ebfc3</tstamps>
+    </comp>
+    <comp ref="R116">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3308b0</tstamps>
+    </comp>
+    <comp ref="R117">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e32fcc4</tstamps>
+    </comp>
+    <comp ref="R118">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e32f5a0</tstamps>
+    </comp>
+    <comp ref="R119">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e32e78d</tstamps>
+    </comp>
+    <comp ref="R120">
+      <value>27k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3467c6</tstamps>
+    </comp>
+    <comp ref="R121">
+      <value>27k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e346cb3</tstamps>
+    </comp>
+    <comp ref="R122">
+      <value>22k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e34cd4d</tstamps>
+    </comp>
+    <comp ref="R123">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3e6e49</tstamps>
+    </comp>
+    <comp ref="R124">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3e8eaa</tstamps>
+    </comp>
+    <comp ref="R125">
+      <value>39k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3e76fc</tstamps>
+    </comp>
+    <comp ref="R126">
+      <value>39k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3e7bcb</tstamps>
+    </comp>
+    <comp ref="R127">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3e962f</tstamps>
+    </comp>
+    <comp ref="R128">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e41e3a1</tstamps>
+    </comp>
+    <comp ref="R129">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e42f525</tstamps>
+    </comp>
+    <comp ref="R130">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e42fba5</tstamps>
+    </comp>
+    <comp ref="R131">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e41e41b</tstamps>
+    </comp>
+    <comp ref="R132">
+      <value>39k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e41e3eb</tstamps>
+    </comp>
+    <comp ref="R133">
+      <value>39k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e41e3c0</tstamps>
+    </comp>
+    <comp ref="R134">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e41e38c</tstamps>
+    </comp>
+    <comp ref="R135">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3f14f5</tstamps>
+    </comp>
+    <comp ref="R136">
+      <value>18k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3f14ba</tstamps>
+    </comp>
+    <comp ref="R137">
+      <value>39k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3f14ac</tstamps>
+    </comp>
+    <comp ref="R138">
+      <value>39k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3f1515</tstamps>
+    </comp>
+    <comp ref="R139">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3f1495</tstamps>
+    </comp>
+    <comp ref="R140">
+      <value>100k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e35b8a1</tstamps>
+    </comp>
+    <comp ref="R141">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e4b3dd6</tstamps>
+    </comp>
+    <comp ref="R142">
+      <value>1k</value>
+      <footprint>mskala:R4valmsk</footprint>
+      <libsource lib="mskala" part="RUS" description="Resistance"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e4b4421</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>SWITCH_INV</value>
+      <footprint>mskala:ESwitch100SP</footprint>
+      <libsource lib="mskala" part="SWITCH_INV" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e66a083</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TL074</value>
+      <footprint>mskala:DIP14msk</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tlc074.pdf</datasheet>
+      <libsource lib="mskala" part="QuadOpAmp_v6" description="Quad Op amp."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>252d5207-8dbf-4657-a0f1-a32dee230e88 00000000-0000-0000-0000-00005e3abf04 00000000-0000-0000-0000-00005dd7bc81 00000000-0000-0000-0000-00005e2009d8 00000000-0000-0000-0000-00005dca4233</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>TL074</value>
+      <footprint>mskala:DIP14msk</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tlc074.pdf</datasheet>
+      <libsource lib="mskala" part="QuadOpAmp_v6" description="Quad Op amp."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3042b9 00000000-0000-0000-0000-00005e304347 22bba646-9d96-49cc-a912-3b9a0c6c676e 00000000-0000-0000-0000-00005e2f85d2 00000000-0000-0000-0000-00005e2cd12a</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TL074</value>
+      <footprint>mskala:DIP14msk</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tlc074.pdf</datasheet>
+      <libsource lib="mskala" part="QuadOpAmp_v6" description="Quad Op amp."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>907e22ed-4bf0-4823-b29d-4cec8550591d 00000000-0000-0000-0000-00005e3b0d3c 00000000-0000-0000-0000-00005e3b0d1d 00000000-0000-0000-0000-00005e3b0a97 00000000-0000-0000-0000-00005e3b0a06</tstamps>
+    </comp>
+    <comp ref="U4">
+      <value>TL074</value>
+      <footprint>mskala:DIP14msk</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tlc074.pdf</datasheet>
+      <libsource lib="mskala" part="QuadOpAmp_v6" description="Quad Op amp."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3aef1b65-8d10-4348-8d39-cd0160fb0612 00000000-0000-0000-0000-00005e2fe108 00000000-0000-0000-0000-00005e2fe0f5 00000000-0000-0000-0000-00005e2fcd3b 00000000-0000-0000-0000-00005e2fad51</tstamps>
+    </comp>
+    <comp ref="U5">
+      <value>TL074</value>
+      <footprint>mskala:DIP14msk</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/tlc074.pdf</datasheet>
+      <libsource lib="mskala" part="QuadOpAmp_v6" description="Quad Op amp."/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e41e40d 00000000-0000-0000-0000-00005e3f14e2 00000000-0000-0000-0000-00005e3e3908 96959fbc-67b7-496f-a2d5-e8ed8d342021 00000000-0000-0000-0000-00005e347189</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>AD633</value>
+      <footprint>mskala:DIP08msk</footprint>
+      <libsource lib="mskala" part="AD633" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd0d522</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>AD633</value>
+      <footprint>mskala:DIP08msk</footprint>
+      <libsource lib="mskala" part="AD633" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e20090b</tstamps>
+    </comp>
+    <comp ref="U8">
+      <value>LF353</value>
+      <footprint>mskala:DIP08msk</footprint>
+      <datasheet>ns/lm158.pdf</datasheet>
+      <libsource lib="mskala" part="DualOpAmp_v6" description="Dual Op amp (low power)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d4f8cfbf-5215-49d8-b5d5-85c5f2766934 00000000-0000-0000-0000-00005e394509 00000000-0000-0000-0000-00005e372a13</tstamps>
+    </comp>
+    <comp ref="U9">
+      <value>LF353</value>
+      <footprint>mskala:DIP08msk</footprint>
+      <datasheet>ns/lm158.pdf</datasheet>
+      <libsource lib="mskala" part="DualOpAmp_v6" description="Dual Op amp (low power)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36a612a0-741c-4766-ab92-4b2e9bb5b596 00000000-0000-0000-0000-00005e3b0de0 00000000-0000-0000-0000-00005e3b0be4</tstamps>
+    </comp>
+    <comp ref="U10">
+      <value>LF353</value>
+      <footprint>mskala:DIP08msk</footprint>
+      <datasheet>ns/lm158.pdf</datasheet>
+      <libsource lib="mskala" part="DualOpAmp_v6" description="Dual Op amp (low power)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9a3343ae-3408-4ce6-ae49-d9dc32a1f3f3 00000000-0000-0000-0000-00005e378a4c 00000000-0000-0000-0000-00005e3784f4</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>LM13700</value>
+      <footprint>mskala:DIP16msk</footprint>
+      <libsource lib="mskala" part="LM13700_v6" description="LM13700 Operational Transconductance Amplifier"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005e3719c1 121a53e8-e4ac-438c-961a-4d26b4d19496 00000000-0000-0000-0000-00005e370adf 00000000-0000-0000-0000-00005e36f8a4 00000000-0000-0000-0000-00005e36ec66</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>LM13700</value>
+      <footprint>mskala:DIP16msk</footprint>
+      <libsource lib="mskala" part="LM13700_v6" description="LM13700 Operational Transconductance Amplifier"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>91dcdf43-1fc9-4a42-9555-283e5516c302 00000000-0000-0000-0000-00005e3b0c2d 00000000-0000-0000-0000-00005e3b0c4b 00000000-0000-0000-0000-00005e3b0c3c 00000000-0000-0000-0000-00005e3b0a6c</tstamps>
+    </comp>
+    <comp ref="U13">
+      <value>78L09</value>
+      <footprint>mskala:TO92msk</footprint>
+      <libsource lib="mskala" part="78L05" description="Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="complexvco.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-00005dd4ba9c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="mskala" part="2N3904">
+      <description>2N3904 general purpose NPN transistor</description>
+      <footprints>
+        <fp>TO92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N3904</field>
+        <field name="Footprint">TO92</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="2N7000">
+      <description>200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</description>
+      <docs>https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf</docs>
+      <footprints>
+        <fp>TO?92*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">2N7000</field>
+        <field name="Footprint">mskala:TO92Xmsk</field>
+        <field name="Datasheet">https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="78L05">
+      <description>Positive 100mA 30V Linear Regulator, Fixed Output 5V, TO-92</description>
+      <docs>http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf</docs>
+      <footprints>
+        <fp>TO*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">78L05</field>
+        <field name="Footprint">mskala:TO92msk</field>
+        <field name="Datasheet">http://www.fairchildsemi.com/ds/LM/LM78L05A.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="power_out"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="IN" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="AD633">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">AD633</field>
+      </fields>
+      <pins>
+        <pin num="1" name="X1" type="input"/>
+        <pin num="2" name="X2" type="input"/>
+        <pin num="3" name="Y1" type="input"/>
+        <pin num="4" name="Y2" type="input"/>
+        <pin num="5" name="-Vs" type="power_in"/>
+        <pin num="6" name="Z" type="input"/>
+        <pin num="7" name="W" type="output"/>
+        <pin num="8" name="+Vs" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="C">
+      <description>Unpolarized capacitor</description>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="CONN_01X01">
+      <description>Connector, single row, 01x01, pin header</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="CONN_01X10">
+      <description>Connector, single row, 01x10, pin header</description>
+      <footprints>
+        <fp>Pin_Header_Straight_1X*</fp>
+        <fp>Pin_Header_Angled_1X*</fp>
+        <fp>Socket_Strip_Straight_1X*</fp>
+        <fp>Socket_Strip_Angled_1X*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">CONN_01X10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="P1" type="passive"/>
+        <pin num="2" name="P2" type="passive"/>
+        <pin num="3" name="P3" type="passive"/>
+        <pin num="4" name="P4" type="passive"/>
+        <pin num="5" name="P5" type="passive"/>
+        <pin num="6" name="P6" type="passive"/>
+        <pin num="7" name="P7" type="passive"/>
+        <pin num="8" name="P8" type="passive"/>
+        <pin num="9" name="P9" type="passive"/>
+        <pin num="10" name="P10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="CONN_02X08">
+      <description>Generic connector, double row, 02x08, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">P</field>
+        <field name="Value">CONN_02X08</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="CP1">
+      <description>Polarised capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP1</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="DIODE">
+      <footprints>
+        <fp>D?</fp>
+        <fp>S*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="DIODESCH">
+      <footprints>
+        <fp>D?</fp>
+        <fp>S*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODESCH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="DualOpAmp_v6">
+      <description>Dual Op amp (low power)</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DualOpAmp_v6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V-" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="V+" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="HexNut">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">HexNut</field>
+      </fields>
+    </libpart>
+    <libpart lib="mskala" part="HexStandoff">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">HexStandoff</field>
+      </fields>
+    </libpart>
+    <libpart lib="mskala" part="JACK_2P">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">JACK_2P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="LM13700_v6">
+      <description>LM13700 Operational Transconductance Amplifier</description>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">LM13700_v6</field>
+        <field name="Footprint">DIP16msk</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="Ibias" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="-" type="input"/>
+        <pin num="5" name="" type="output"/>
+        <pin num="6" name="V-" type="power_in"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="input"/>
+        <pin num="11" name="" type="power_in"/>
+        <pin num="12" name="" type="output"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="+" type="input"/>
+        <pin num="15" name="Ibias" type="input"/>
+        <pin num="16" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="MachineScrew">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MachineScrew</field>
+      </fields>
+    </libpart>
+    <libpart lib="mskala" part="POTUS">
+      <description>Potentiometer</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">POTUS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="POTUSmnt">
+      <description>Potentiometer</description>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">POTUSmnt</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="QuadOpAmp_v6">
+      <description>Quad Op amp.</description>
+      <footprints>
+        <fp>SOIC*Pitch1.27mm*</fp>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>TSSOP*4.4x5mm*Pitch0.65mm*</fp>
+        <fp>SSOP*</fp>
+        <fp>MSOP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">QuadOpAmp_v6</field>
+        <field name="Footprint">mskala:DIP14msk</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="output"/>
+        <pin num="2" name="-" type="input"/>
+        <pin num="3" name="+" type="input"/>
+        <pin num="4" name="V+" type="power_in"/>
+        <pin num="5" name="+" type="input"/>
+        <pin num="6" name="-" type="input"/>
+        <pin num="7" name="" type="output"/>
+        <pin num="8" name="" type="output"/>
+        <pin num="9" name="-" type="input"/>
+        <pin num="10" name="+" type="input"/>
+        <pin num="11" name="V-" type="power_in"/>
+        <pin num="12" name="+" type="input"/>
+        <pin num="13" name="-" type="input"/>
+        <pin num="14" name="" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="RUS">
+      <description>Resistance</description>
+      <footprints>
+        <fp>R?</fp>
+        <fp>SM0603</fp>
+        <fp>SM0805</fp>
+        <fp>R?-*</fp>
+        <fp>SM1206</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">RUS</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="SWITCH_INV">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SWITCH_INV</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="THAT320">
+      <description>THAT320 quad PNP transistor array</description>
+      <footprints>
+        <fp>DIP14*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">THAT320</field>
+        <field name="Footprint">DIP14msk</field>
+      </fields>
+      <pins>
+        <pin num="1" name="C" type="passive"/>
+        <pin num="2" name="B" type="input"/>
+        <pin num="3" name="E" type="passive"/>
+        <pin num="4" name="SUB" type="passive"/>
+        <pin num="5" name="E" type="passive"/>
+        <pin num="6" name="B" type="input"/>
+        <pin num="7" name="C" type="passive"/>
+        <pin num="8" name="C" type="passive"/>
+        <pin num="9" name="B" type="input"/>
+        <pin num="10" name="E" type="passive"/>
+        <pin num="11" name="SUB" type="passive"/>
+        <pin num="12" name="E" type="passive"/>
+        <pin num="13" name="B" type="input"/>
+        <pin num="14" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mskala" part="Washer">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">Washer</field>
+      </fields>
+    </libpart>
+    <libpart lib="mskala" part="ZENER">
+      <footprints>
+        <fp>D?</fp>
+        <fp>SO*</fp>
+        <fp>SM*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">ZENER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="K" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries/>
+  <nets>
+    <net code="1" name="+9V">
+      <node ref="C31" pin="1" pintype="passive"/>
+      <node ref="J23" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="P4" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="R140" pin="1" pintype="passive"/>
+      <node ref="R25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R32" pin="2" pintype="passive"/>
+      <node ref="R41" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R43" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R5" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R63" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R7" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R70" pin="2" pintype="passive"/>
+      <node ref="R77" pin="2" pintype="passive"/>
+      <node ref="R81" pin="2" pintype="passive"/>
+      <node ref="U13" pin="1" pinfunction="OUT" pintype="power_out"/>
+    </net>
+    <net code="2" name="+12V">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C13" pin="2" pintype="passive"/>
+      <node ref="C17" pin="1" pintype="passive"/>
+      <node ref="C20" pin="1" pintype="passive"/>
+      <node ref="C22" pin="1" pintype="passive"/>
+      <node ref="C27" pin="1" pintype="passive"/>
+      <node ref="C29" pin="1" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C33" pin="1" pintype="passive"/>
+      <node ref="C35" pin="2" pintype="passive"/>
+      <node ref="C37" pin="2" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="C8" pin="1" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="J23" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="P4" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="R106" pin="1" pintype="passive"/>
+      <node ref="R107" pin="1" pintype="passive"/>
+      <node ref="R108" pin="1" pintype="passive"/>
+      <node ref="R109" pin="1" pintype="passive"/>
+      <node ref="R110" pin="1" pintype="passive"/>
+      <node ref="R111" pin="1" pintype="passive"/>
+      <node ref="R112" pin="1" pintype="passive"/>
+      <node ref="R113" pin="1" pintype="passive"/>
+      <node ref="R114" pin="1" pintype="passive"/>
+      <node ref="R115" pin="1" pintype="passive"/>
+      <node ref="R116" pin="1" pintype="passive"/>
+      <node ref="R117" pin="1" pintype="passive"/>
+      <node ref="R118" pin="1" pintype="passive"/>
+      <node ref="R119" pin="1" pintype="passive"/>
+      <node ref="R16" pin="2" pintype="passive"/>
+      <node ref="R54" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U10" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U11" pin="11" pintype="power_in"/>
+      <node ref="U12" pin="11" pintype="power_in"/>
+      <node ref="U13" pin="3" pinfunction="IN" pintype="input"/>
+      <node ref="U2" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U3" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U4" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U5" pin="4" pinfunction="V+" pintype="power_in"/>
+      <node ref="U6" pin="8" pinfunction="+Vs" pintype="power_in"/>
+      <node ref="U7" pin="8" pinfunction="+Vs" pintype="power_in"/>
+      <node ref="U8" pin="8" pinfunction="V+" pintype="power_in"/>
+      <node ref="U9" pin="8" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="3" name="-5VA">
+      <node ref="C32" pin="1" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R44" pin="2" pintype="passive"/>
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="R83" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="-12V">
+      <node ref="C14" pin="2" pintype="passive"/>
+      <node ref="C18" pin="1" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C21" pin="1" pintype="passive"/>
+      <node ref="C23" pin="1" pintype="passive"/>
+      <node ref="C28" pin="1" pintype="passive"/>
+      <node ref="C30" pin="2" pintype="passive"/>
+      <node ref="C34" pin="1" pintype="passive"/>
+      <node ref="C36" pin="2" pintype="passive"/>
+      <node ref="C38" pin="2" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="C9" pin="1" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="J23" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="P4" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="R121" pin="2" pintype="passive"/>
+      <node ref="R122" pin="2" pintype="passive"/>
+      <node ref="R78" pin="1" pintype="passive"/>
+      <node ref="R82" pin="1" pintype="passive"/>
+      <node ref="R83" pin="2" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U10" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U11" pin="6" pinfunction="V-" pintype="power_in"/>
+      <node ref="U12" pin="6" pinfunction="V-" pintype="power_in"/>
+      <node ref="U2" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U3" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U4" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U5" pin="11" pinfunction="V-" pintype="power_in"/>
+      <node ref="U6" pin="5" pinfunction="-Vs" pintype="power_in"/>
+      <node ref="U7" pin="5" pinfunction="-Vs" pintype="power_in"/>
+      <node ref="U8" pin="4" pinfunction="V-" pintype="power_in"/>
+      <node ref="U9" pin="4" pinfunction="V-" pintype="power_in"/>
+    </net>
+    <net code="5" name="/BASEX">
+      <node ref="D9" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="J22" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="P3" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R93" pin="2" pintype="passive"/>
+      <node ref="R94" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="/BASEY">
+      <node ref="D10" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="J22" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="P3" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="Q15" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R104" pin="2" pintype="passive"/>
+      <node ref="R105" pin="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/BOTH">
+      <node ref="J19" pin="1" pintype="passive"/>
+      <node ref="J23" pin="9" pinfunction="P9" pintype="passive"/>
+      <node ref="P4" pin="9" pinfunction="P9" pintype="passive"/>
+      <node ref="R133" pin="2" pintype="passive"/>
+      <node ref="R134" pin="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/BUSCV">
+      <node ref="J23" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="J24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J25" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="P1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="P1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="P4" pin="8" pinfunction="P8" pintype="passive"/>
+    </net>
+    <net code="9" name="/CCA">
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U11" pin="16" pintype="input"/>
+    </net>
+    <net code="10" name="/CCB">
+      <node ref="R49" pin="1" pintype="passive"/>
+      <node ref="U12" pin="16" pintype="input"/>
+    </net>
+    <net code="11" name="/COS">
+      <node ref="J20" pin="1" pintype="passive"/>
+      <node ref="J23" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="P4" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="R138" pin="2" pintype="passive"/>
+      <node ref="R139" pin="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/CVA">
+      <node ref="J22" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="P3" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="R10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R10" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="1" pintype="output"/>
+      <node ref="U6" pin="2" pinfunction="X2" pintype="input"/>
+    </net>
+    <net code="13" name="/CVB">
+      <node ref="J21" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="P2" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="R46" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R46" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U1" pin="7" pintype="output"/>
+      <node ref="U7" pin="2" pinfunction="X2" pintype="input"/>
+    </net>
+    <net code="14" name="/GROUP1">
+      <node ref="R123" pin="1" pintype="passive"/>
+      <node ref="R128" pin="1" pintype="passive"/>
+      <node ref="U4" pin="8" pintype="output"/>
+      <node ref="U4" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="15" name="/GROUP2">
+      <node ref="R130" pin="1" pintype="passive"/>
+      <node ref="R135" pin="1" pintype="passive"/>
+      <node ref="U4" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U4" pin="14" pintype="output"/>
+    </net>
+    <net code="16" name="/GROUP3">
+      <node ref="R124" pin="1" pintype="passive"/>
+      <node ref="R129" pin="1" pintype="passive"/>
+      <node ref="U4" pin="1" pintype="output"/>
+      <node ref="U4" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="17" name="/GROUP4">
+      <node ref="R131" pin="1" pintype="passive"/>
+      <node ref="R136" pin="1" pintype="passive"/>
+      <node ref="U4" pin="6" pinfunction="-" pintype="input"/>
+      <node ref="U4" pin="7" pintype="output"/>
+    </net>
+    <net code="18" name="/HIREFE">
+      <node ref="J21" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="P2" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="E" pintype="passive"/>
+      <node ref="R77" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="19" name="/HIREFV">
+      <node ref="J21" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="P2" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="R75" pin="2" pintype="passive"/>
+      <node ref="U1" pin="8" pintype="output"/>
+      <node ref="U6" pin="3" pinfunction="Y1" pintype="input"/>
+      <node ref="U7" pin="3" pinfunction="Y1" pintype="input"/>
+    </net>
+    <net code="20" name="/LOREFE">
+      <node ref="J21" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="P2" pin="3" pinfunction="P3" pintype="passive"/>
+      <node ref="Q1" pin="5" pinfunction="E" pintype="passive"/>
+      <node ref="R81" pin="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="21" name="/LOREFV">
+      <node ref="J21" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="P2" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="R79" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pintype="output"/>
+      <node ref="U6" pin="4" pinfunction="Y2" pintype="input"/>
+      <node ref="U6" pin="6" pinfunction="Z" pintype="input"/>
+      <node ref="U7" pin="4" pinfunction="Y2" pintype="input"/>
+      <node ref="U7" pin="6" pinfunction="Z" pintype="input"/>
+    </net>
+    <net code="22" name="/PULSA">
+      <node ref="C15" pin="2" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="J22" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="P3" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="R141" pin="2" pintype="passive"/>
+      <node ref="R36" pin="1" pintype="passive"/>
+    </net>
+    <net code="23" name="/PULSB">
+      <node ref="D5" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="J23" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="P4" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="R142" pin="2" pintype="passive"/>
+      <node ref="R74" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="/PWMA">
+      <node ref="J22" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="P3" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="R34" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R35" pin="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="25" name="/PWMB">
+      <node ref="J21" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="P2" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="R72" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R73" pin="1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="26" name="/SAWA">
+      <node ref="C12" pin="1" pintype="passive"/>
+      <node ref="J22" pin="9" pinfunction="P9" pintype="passive"/>
+      <node ref="P3" pin="9" pinfunction="P9" pintype="passive"/>
+      <node ref="R30" pin="1" pintype="passive"/>
+      <node ref="R31" pin="1" pintype="passive"/>
+      <node ref="U2" pin="8" pintype="output"/>
+    </net>
+    <net code="27" name="/SAWB">
+      <node ref="C26" pin="1" pintype="passive"/>
+      <node ref="J21" pin="9" pinfunction="P9" pintype="passive"/>
+      <node ref="P2" pin="9" pinfunction="P9" pintype="passive"/>
+      <node ref="R68" pin="1" pintype="passive"/>
+      <node ref="R69" pin="1" pintype="passive"/>
+      <node ref="U3" pin="8" pintype="output"/>
+    </net>
+    <net code="28" name="/SIN">
+      <node ref="J18" pin="1" pintype="passive"/>
+      <node ref="J23" pin="10" pinfunction="P10" pintype="passive"/>
+      <node ref="P4" pin="10" pinfunction="P10" pintype="passive"/>
+      <node ref="R126" pin="2" pintype="passive"/>
+      <node ref="R127" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="/SQRA">
+      <node ref="C11" pin="1" pintype="passive"/>
+      <node ref="C16" pin="2" pintype="passive"/>
+      <node ref="J22" pin="10" pinfunction="P10" pintype="passive"/>
+      <node ref="P3" pin="10" pinfunction="P10" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R22" pin="1" pintype="passive"/>
+      <node ref="R23" pin="1" pintype="passive"/>
+      <node ref="U8" pin="7" pintype="output"/>
+    </net>
+    <net code="30" name="/SQRB">
+      <node ref="C25" pin="1" pintype="passive"/>
+      <node ref="J21" pin="10" pinfunction="P10" pintype="passive"/>
+      <node ref="P2" pin="10" pinfunction="P10" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R60" pin="1" pintype="passive"/>
+      <node ref="R61" pin="1" pintype="passive"/>
+      <node ref="U9" pin="7" pintype="output"/>
+    </net>
+    <net code="31" name="/SYNC">
+      <node ref="J22" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="P3" pin="5" pinfunction="P5" pintype="passive"/>
+      <node ref="R55" pin="1" pintype="passive"/>
+      <node ref="S1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U12" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U12" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U12" pin="5" pintype="output"/>
+      <node ref="U9" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="32" name="/TRIA">
+      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="J15" pin="2" pintype="passive"/>
+      <node ref="J22" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="P3" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="R19" pin="1" pintype="passive"/>
+      <node ref="R20" pin="1" pintype="passive"/>
+      <node ref="R24" pin="1" pintype="passive"/>
+      <node ref="R35" pin="2" pintype="passive"/>
+      <node ref="U2" pin="1" pintype="output"/>
+    </net>
+    <net code="33" name="/TRIB">
+      <node ref="C24" pin="1" pintype="passive"/>
+      <node ref="J17" pin="2" pintype="passive"/>
+      <node ref="J21" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="P2" pin="8" pinfunction="P8" pintype="passive"/>
+      <node ref="R57" pin="1" pintype="passive"/>
+      <node ref="R58" pin="1" pintype="passive"/>
+      <node ref="R62" pin="1" pintype="passive"/>
+      <node ref="R73" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pintype="output"/>
+    </net>
+    <net code="34" name="GNDREF">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C13" pin="1" pintype="passive"/>
+      <node ref="C14" pin="1" pintype="passive"/>
+      <node ref="C17" pin="2" pintype="passive"/>
+      <node ref="C18" pin="2" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C20" pin="2" pintype="passive"/>
+      <node ref="C21" pin="2" pintype="passive"/>
+      <node ref="C22" pin="2" pintype="passive"/>
+      <node ref="C23" pin="2" pintype="passive"/>
+      <node ref="C27" pin="2" pintype="passive"/>
+      <node ref="C28" pin="2" pintype="passive"/>
+      <node ref="C29" pin="2" pintype="passive"/>
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C30" pin="1" pintype="passive"/>
+      <node ref="C31" pin="2" pintype="passive"/>
+      <node ref="C32" pin="2" pintype="passive"/>
+      <node ref="C33" pin="2" pintype="passive"/>
+      <node ref="C34" pin="2" pintype="passive"/>
+      <node ref="C35" pin="1" pintype="passive"/>
+      <node ref="C36" pin="1" pintype="passive"/>
+      <node ref="C37" pin="1" pintype="passive"/>
+      <node ref="C38" pin="1" pintype="passive"/>
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="C8" pin="2" pintype="passive"/>
+      <node ref="C9" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="H2" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="H3" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="H4" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="H5" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="H6" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="H7" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="H8" pin="1" pinfunction="P1" pintype="passive"/>
+      <node ref="J1" pin="3" pintype="passive"/>
+      <node ref="J10" pin="3" pintype="passive"/>
+      <node ref="J11" pin="3" pintype="passive"/>
+      <node ref="J12" pin="3" pintype="passive"/>
+      <node ref="J13" pin="3" pintype="passive"/>
+      <node ref="J14" pin="3" pintype="passive"/>
+      <node ref="J15" pin="3" pintype="passive"/>
+      <node ref="J16" pin="3" pintype="passive"/>
+      <node ref="J17" pin="3" pintype="passive"/>
+      <node ref="J18" pin="3" pintype="passive"/>
+      <node ref="J19" pin="3" pintype="passive"/>
+      <node ref="J2" pin="3" pintype="passive"/>
+      <node ref="J20" pin="3" pintype="passive"/>
+      <node ref="J21" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="J22" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="J23" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="J23" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="J3" pin="3" pintype="passive"/>
+      <node ref="J4" pin="3" pintype="passive"/>
+      <node ref="J5" pin="3" pintype="passive"/>
+      <node ref="J6" pin="3" pintype="passive"/>
+      <node ref="J7" pin="3" pintype="passive"/>
+      <node ref="J8" pin="3" pintype="passive"/>
+      <node ref="J9" pin="3" pintype="passive"/>
+      <node ref="P1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="P1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="P1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="P1" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="P1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="P1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="P2" pin="7" pinfunction="P7" pintype="passive"/>
+      <node ref="P3" pin="2" pinfunction="P2" pintype="passive"/>
+      <node ref="P4" pin="4" pinfunction="P4" pintype="passive"/>
+      <node ref="P4" pin="6" pinfunction="P6" pintype="passive"/>
+      <node ref="Q1" pin="10" pinfunction="E" pintype="passive"/>
+      <node ref="Q1" pin="11" pinfunction="SUB" pintype="passive"/>
+      <node ref="Q1" pin="12" pinfunction="E" pintype="passive"/>
+      <node ref="Q1" pin="4" pinfunction="SUB" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R120" pin="1" pintype="passive"/>
+      <node ref="R125" pin="2" pintype="passive"/>
+      <node ref="R132" pin="2" pintype="passive"/>
+      <node ref="R137" pin="2" pintype="passive"/>
+      <node ref="R15" pin="2" pintype="passive"/>
+      <node ref="R17" pin="2" pintype="passive"/>
+      <node ref="R18" pin="2" pintype="passive"/>
+      <node ref="R21" pin="2" pintype="passive"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R34" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R34" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R39" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R39" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R41" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R41" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R43" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R43" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R48" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R51" pin="1" pintype="passive"/>
+      <node ref="R53" pin="2" pintype="passive"/>
+      <node ref="R55" pin="2" pintype="passive"/>
+      <node ref="R56" pin="2" pintype="passive"/>
+      <node ref="R59" pin="2" pintype="passive"/>
+      <node ref="R7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R7" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R72" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R72" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R76" pin="2" pintype="passive"/>
+      <node ref="R80" pin="2" pintype="passive"/>
+      <node ref="R85" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R85" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R87" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R87" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R89" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R89" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="+" pintype="input"/>
+      <node ref="U1" pin="12" pinfunction="+" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U1" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="U10" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U10" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="U11" pin="10" pintype="input"/>
+      <node ref="U11" pin="7" pintype="input"/>
+      <node ref="U12" pin="10" pintype="input"/>
+      <node ref="U12" pin="7" pintype="input"/>
+      <node ref="U13" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="12" pinfunction="+" pintype="input"/>
+      <node ref="U2" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="U3" pin="12" pinfunction="+" pintype="input"/>
+      <node ref="U3" pin="5" pinfunction="+" pintype="input"/>
+      <node ref="U6" pin="1" pinfunction="X1" pintype="input"/>
+      <node ref="U7" pin="1" pinfunction="X1" pintype="input"/>
+      <node ref="U8" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U9" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="35" name="Net-(C5-Pad1)">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U8" pin="1" pintype="output"/>
+    </net>
+    <net code="36" name="Net-(C5-Pad2)">
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="U11" pin="12" pintype="output"/>
+      <node ref="U8" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="37" name="Net-(C10-Pad2)">
+      <node ref="C10" pin="2" pintype="passive"/>
+      <node ref="R19" pin="2" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pintype="passive"/>
+      <node ref="R21" pin="1" pintype="passive"/>
+      <node ref="R22" pin="2" pintype="passive"/>
+      <node ref="U8" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pintype="passive"/>
+      <node ref="R29" pin="1" pintype="passive"/>
+      <node ref="R30" pin="2" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pintype="passive"/>
+      <node ref="R50" pin="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(C16-Pad1)">
+      <node ref="C16" pin="1" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R51" pin="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(C19-Pad1)">
+      <node ref="C19" pin="1" pintype="passive"/>
+      <node ref="R52" pin="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U9" pin="1" pintype="output"/>
+    </net>
+    <net code="43" name="Net-(C19-Pad2)">
+      <node ref="C19" pin="2" pintype="passive"/>
+      <node ref="U12" pin="12" pintype="output"/>
+      <node ref="U9" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(C24-Pad2)">
+      <node ref="C24" pin="2" pintype="passive"/>
+      <node ref="R57" pin="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="45" name="Net-(C25-Pad2)">
+      <node ref="C25" pin="2" pintype="passive"/>
+      <node ref="R59" pin="1" pintype="passive"/>
+      <node ref="R60" pin="2" pintype="passive"/>
+      <node ref="U9" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="46" name="Net-(C26-Pad2)">
+      <node ref="C26" pin="2" pintype="passive"/>
+      <node ref="R67" pin="1" pintype="passive"/>
+      <node ref="R68" pin="2" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="47" name="Net-(C39-Pad1)">
+      <node ref="C39" pin="1" pintype="passive"/>
+      <node ref="R127" pin="1" pintype="passive"/>
+      <node ref="U5" pin="14" pintype="output"/>
+    </net>
+    <net code="48" name="Net-(C39-Pad2)">
+      <node ref="C39" pin="2" pintype="passive"/>
+      <node ref="R124" pin="2" pintype="passive"/>
+      <node ref="R126" pin="1" pintype="passive"/>
+      <node ref="U5" pin="13" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="49" name="Net-(C40-Pad1)">
+      <node ref="C40" pin="1" pintype="passive"/>
+      <node ref="R134" pin="1" pintype="passive"/>
+      <node ref="U5" pin="8" pintype="output"/>
+    </net>
+    <net code="50" name="Net-(C40-Pad2)">
+      <node ref="C40" pin="2" pintype="passive"/>
+      <node ref="R130" pin="2" pintype="passive"/>
+      <node ref="R131" pin="2" pintype="passive"/>
+      <node ref="R133" pin="1" pintype="passive"/>
+      <node ref="U5" pin="9" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="51" name="Net-(C41-Pad1)">
+      <node ref="C41" pin="1" pintype="passive"/>
+      <node ref="R139" pin="1" pintype="passive"/>
+      <node ref="U5" pin="7" pintype="output"/>
+    </net>
+    <net code="52" name="Net-(C41-Pad2)">
+      <node ref="C41" pin="2" pintype="passive"/>
+      <node ref="R136" pin="2" pintype="passive"/>
+      <node ref="R138" pin="1" pintype="passive"/>
+      <node ref="U5" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="53" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D3-Pad2)">
+      <node ref="D3" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="S1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D4-Pad1)">
+      <node ref="D4" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D6-Pad1)">
+      <node ref="D6" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="P1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="P1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D7-Pad2)">
+      <node ref="D7" pin="2" pinfunction="K" pintype="passive"/>
+      <node ref="P1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="P1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D10-Pad1)">
+      <node ref="D10" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(J1-Pad1)">
+      <node ref="J1" pin="1" pintype="passive"/>
+      <node ref="J25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(J1-Pad2)">
+      <node ref="J1" pin="2" pintype="passive"/>
+      <node ref="J24" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1" pintype="passive"/>
+      <node ref="J9" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(J2-Pad2)">
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J9" pin="1" pintype="passive"/>
+      <node ref="R38" pin="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1" pintype="passive"/>
+      <node ref="R20" pin="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1" pintype="passive"/>
+      <node ref="R23" pin="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1" pintype="passive"/>
+      <node ref="R33" pin="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(J5-Pad2)">
+      <node ref="J5" pin="2" pintype="passive"/>
+      <node ref="R32" pin="1" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(J6-Pad1)">
+      <node ref="J6" pin="1" pintype="passive"/>
+      <node ref="R31" pin="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(J7-Pad1)">
+      <node ref="J7" pin="1" pintype="passive"/>
+      <node ref="R36" pin="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(J10-Pad1)">
+      <node ref="J10" pin="1" pintype="passive"/>
+      <node ref="R58" pin="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(J11-Pad1)">
+      <node ref="J11" pin="1" pintype="passive"/>
+      <node ref="R61" pin="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(J12-Pad1)">
+      <node ref="J12" pin="1" pintype="passive"/>
+      <node ref="R71" pin="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(J12-Pad2)">
+      <node ref="J12" pin="2" pintype="passive"/>
+      <node ref="R70" pin="1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(J13-Pad1)">
+      <node ref="J13" pin="1" pintype="passive"/>
+      <node ref="R69" pin="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(J14-Pad1)">
+      <node ref="J14" pin="1" pintype="passive"/>
+      <node ref="R74" pin="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(J15-Pad1)">
+      <node ref="J15" pin="1" pintype="passive"/>
+      <node ref="R84" pin="1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(J16-Pad1)">
+      <node ref="J16" pin="1" pintype="passive"/>
+      <node ref="R86" pin="1" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(J16-Pad2)">
+      <node ref="J16" pin="2" pintype="passive"/>
+      <node ref="R140" pin="2" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(J17-Pad1)">
+      <node ref="J17" pin="1" pintype="passive"/>
+      <node ref="R88" pin="1" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(J24-Pad3)">
+      <node ref="J24" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J8" pin="1" pintype="passive"/>
+      <node ref="R37" pin="2" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(J25-Pad2)">
+      <node ref="J25" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J8" pin="2" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="C" pintype="passive"/>
+      <node ref="R78" pin="2" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R75" pin="1" pintype="passive"/>
+      <node ref="R76" pin="1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(Q1-Pad6)">
+      <node ref="Q1" pin="6" pinfunction="B" pintype="input"/>
+      <node ref="R79" pin="1" pintype="passive"/>
+      <node ref="R80" pin="1" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(Q1-Pad7)">
+      <node ref="Q1" pin="7" pinfunction="C" pintype="passive"/>
+      <node ref="R82" pin="2" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(Q1-Pad8)">
+      <node ref="Q1" pin="8" pinfunction="C" pintype="passive"/>
+      <node ref="R49" pin="2" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(Q1-Pad9)">
+      <node ref="Q1" pin="9" pinfunction="B" pintype="input"/>
+      <node ref="R47" pin="1" pintype="passive"/>
+      <node ref="R48" pin="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(Q1-Pad13)">
+      <node ref="Q1" pin="13" pinfunction="B" pintype="input"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(Q1-Pad14)">
+      <node ref="Q1" pin="14" pinfunction="C" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(Q2-Pad1)">
+      <node ref="Q2" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="R28" pin="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="90" name="Net-(Q3-Pad1)">
+      <node ref="Q3" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="R66" pin="1" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="91" name="Net-(Q5-Pad2)">
+      <node ref="Q5" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R106" pin="2" pintype="passive"/>
+      <node ref="R94" pin="2" pintype="passive"/>
+      <node ref="R95" pin="1" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(Q6-Pad2)">
+      <node ref="Q6" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R107" pin="2" pintype="passive"/>
+      <node ref="R95" pin="2" pintype="passive"/>
+      <node ref="R96" pin="1" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(Q7-Pad2)">
+      <node ref="Q7" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R108" pin="2" pintype="passive"/>
+      <node ref="R96" pin="2" pintype="passive"/>
+      <node ref="R97" pin="1" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(Q8-Pad2)">
+      <node ref="Q8" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R109" pin="2" pintype="passive"/>
+      <node ref="R97" pin="2" pintype="passive"/>
+      <node ref="R98" pin="1" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(Q9-Pad2)">
+      <node ref="Q9" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R110" pin="2" pintype="passive"/>
+      <node ref="R98" pin="2" pintype="passive"/>
+      <node ref="R99" pin="1" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(Q10-Pad1)">
+      <node ref="Q10" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q11" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q12" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q13" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q14" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q15" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q16" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q4" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q5" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q6" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q7" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q8" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="Q9" pin="1" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(Q10-Pad2)">
+      <node ref="Q10" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R100" pin="1" pintype="passive"/>
+      <node ref="R111" pin="2" pintype="passive"/>
+      <node ref="R99" pin="2" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(Q10-Pad3)">
+      <node ref="Q10" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q14" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q6" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R118" pin="2" pintype="passive"/>
+      <node ref="U4" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="99" name="Net-(Q11-Pad2)">
+      <node ref="Q11" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R100" pin="2" pintype="passive"/>
+      <node ref="R101" pin="1" pintype="passive"/>
+      <node ref="R112" pin="2" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(Q11-Pad3)">
+      <node ref="Q11" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q15" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q7" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R119" pin="2" pintype="passive"/>
+      <node ref="U4" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="101" name="Net-(Q12-Pad2)">
+      <node ref="Q12" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R101" pin="2" pintype="passive"/>
+      <node ref="R102" pin="1" pintype="passive"/>
+      <node ref="R113" pin="2" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(Q12-Pad3)">
+      <node ref="Q12" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q8" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R116" pin="2" pintype="passive"/>
+      <node ref="U4" pin="10" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="103" name="Net-(Q13-Pad2)">
+      <node ref="Q13" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R102" pin="2" pintype="passive"/>
+      <node ref="R103" pin="1" pintype="passive"/>
+      <node ref="R114" pin="2" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(Q13-Pad3)">
+      <node ref="Q13" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q5" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="Q9" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="R117" pin="2" pintype="passive"/>
+      <node ref="U4" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="105" name="Net-(Q14-Pad2)">
+      <node ref="Q14" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="R103" pin="2" pintype="passive"/>
+      <node ref="R104" pin="1" pintype="passive"/>
+      <node ref="R115" pin="2" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(Q16-Pad1)">
+      <node ref="Q16" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R122" pin="1" pintype="passive"/>
+      <node ref="U5" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="107" name="Net-(Q16-Pad2)">
+      <node ref="Q16" pin="2" pinfunction="B" pintype="input"/>
+      <node ref="U5" pin="1" pintype="output"/>
+    </net>
+    <net code="108" name="Net-(R1-Pad1)">
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="109" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(R4-Pad2)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(R6-Pad2)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="R7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(R10-Pad1)">
+      <node ref="R10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R9" pin="1" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(R11-Pad2)">
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="U6" pin="7" pinfunction="W" pintype="output"/>
+    </net>
+    <net code="114" name="Net-(R14-Pad1)">
+      <node ref="R14" pin="1" pintype="passive"/>
+      <node ref="R15" pin="1" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="115" name="Net-(R16-Pad1)">
+      <node ref="R16" pin="1" pintype="passive"/>
+      <node ref="U11" pin="1" pintype="input"/>
+    </net>
+    <net code="116" name="Net-(R17-Pad1)">
+      <node ref="R17" pin="1" pintype="passive"/>
+      <node ref="U11" pin="13" pinfunction="-" pintype="input"/>
+      <node ref="U11" pin="3" pinfunction="+" pintype="input"/>
+      <node ref="U11" pin="5" pintype="output"/>
+      <node ref="U8" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="117" name="Net-(R18-Pad1)">
+      <node ref="R18" pin="1" pintype="passive"/>
+      <node ref="U11" pin="14" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="118" name="Net-(R24-Pad2)">
+      <node ref="R24" pin="2" pintype="passive"/>
+      <node ref="R26" pin="2" pintype="passive"/>
+      <node ref="R27" pin="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="119" name="Net-(R25-Pad2)">
+      <node ref="R25" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R25" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R26" pin="1" pintype="passive"/>
+    </net>
+    <net code="120" name="Net-(R27-Pad2)">
+      <node ref="R27" pin="2" pintype="passive"/>
+      <node ref="R28" pin="2" pintype="passive"/>
+      <node ref="R29" pin="2" pintype="passive"/>
+      <node ref="U2" pin="7" pintype="output"/>
+    </net>
+    <net code="121" name="Net-(R33-Pad1)">
+      <node ref="R33" pin="1" pintype="passive"/>
+      <node ref="R34" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="122" name="Net-(R37-Pad1)">
+      <node ref="R37" pin="1" pintype="passive"/>
+      <node ref="R39" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R40" pin="1" pintype="passive"/>
+      <node ref="R42" pin="1" pintype="passive"/>
+      <node ref="R44" pin="1" pintype="passive"/>
+      <node ref="R45" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="123" name="Net-(R38-Pad1)">
+      <node ref="R38" pin="1" pintype="passive"/>
+      <node ref="R39" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="124" name="Net-(R40-Pad2)">
+      <node ref="R40" pin="2" pintype="passive"/>
+      <node ref="R41" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="125" name="Net-(R42-Pad2)">
+      <node ref="R42" pin="2" pintype="passive"/>
+      <node ref="R43" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="126" name="Net-(R45-Pad1)">
+      <node ref="R45" pin="1" pintype="passive"/>
+      <node ref="R46" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="127" name="Net-(R47-Pad2)">
+      <node ref="R47" pin="2" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="W" pintype="output"/>
+    </net>
+    <net code="128" name="Net-(R50-Pad1)">
+      <node ref="R50" pin="1" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="129" name="Net-(R52-Pad1)">
+      <node ref="R52" pin="1" pintype="passive"/>
+      <node ref="R53" pin="1" pintype="passive"/>
+      <node ref="U12" pin="4" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="130" name="Net-(R54-Pad1)">
+      <node ref="R54" pin="1" pintype="passive"/>
+      <node ref="U12" pin="1" pintype="input"/>
+    </net>
+    <net code="131" name="Net-(R56-Pad1)">
+      <node ref="R56" pin="1" pintype="passive"/>
+      <node ref="U12" pin="14" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="132" name="Net-(R62-Pad2)">
+      <node ref="R62" pin="2" pintype="passive"/>
+      <node ref="R64" pin="2" pintype="passive"/>
+      <node ref="R65" pin="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="133" name="Net-(R63-Pad2)">
+      <node ref="R63" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R63" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R64" pin="1" pintype="passive"/>
+    </net>
+    <net code="134" name="Net-(R65-Pad2)">
+      <node ref="R65" pin="2" pintype="passive"/>
+      <node ref="R66" pin="2" pintype="passive"/>
+      <node ref="R67" pin="2" pintype="passive"/>
+      <node ref="U3" pin="7" pintype="output"/>
+    </net>
+    <net code="135" name="Net-(R71-Pad1)">
+      <node ref="R71" pin="1" pintype="passive"/>
+      <node ref="R72" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="136" name="Net-(R84-Pad2)">
+      <node ref="R84" pin="2" pintype="passive"/>
+      <node ref="R85" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="137" name="Net-(R85-Pad3)">
+      <node ref="R85" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R87" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R89" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R90" pin="1" pintype="passive"/>
+      <node ref="U10" pin="2" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="138" name="Net-(R86-Pad2)">
+      <node ref="R86" pin="2" pintype="passive"/>
+      <node ref="R87" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="139" name="Net-(R88-Pad2)">
+      <node ref="R88" pin="2" pintype="passive"/>
+      <node ref="R89" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="140" name="Net-(R90-Pad2)">
+      <node ref="R90" pin="2" pintype="passive"/>
+      <node ref="R91" pin="1" pintype="passive"/>
+      <node ref="R93" pin="1" pintype="passive"/>
+      <node ref="U10" pin="1" pintype="output"/>
+    </net>
+    <net code="141" name="Net-(R91-Pad2)">
+      <node ref="R91" pin="2" pintype="passive"/>
+      <node ref="R92" pin="1" pintype="passive"/>
+      <node ref="U10" pin="6" pinfunction="-" pintype="input"/>
+    </net>
+    <net code="142" name="Net-(R105-Pad2)">
+      <node ref="R105" pin="2" pintype="passive"/>
+      <node ref="R92" pin="2" pintype="passive"/>
+      <node ref="U10" pin="7" pintype="output"/>
+    </net>
+    <net code="143" name="Net-(R120-Pad2)">
+      <node ref="R120" pin="2" pintype="passive"/>
+      <node ref="R121" pin="1" pintype="passive"/>
+      <node ref="U5" pin="3" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="144" name="Net-(R123-Pad2)">
+      <node ref="R123" pin="2" pintype="passive"/>
+      <node ref="R125" pin="1" pintype="passive"/>
+      <node ref="U5" pin="12" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="145" name="Net-(R128-Pad2)">
+      <node ref="R128" pin="2" pintype="passive"/>
+      <node ref="R129" pin="2" pintype="passive"/>
+      <node ref="R132" pin="1" pintype="passive"/>
+      <node ref="U5" pin="10" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="146" name="Net-(R135-Pad2)">
+      <node ref="R135" pin="2" pintype="passive"/>
+      <node ref="R137" pin="1" pintype="passive"/>
+      <node ref="U5" pin="5" pinfunction="+" pintype="input"/>
+    </net>
+    <net code="147" name="Net-(R141-Pad1)">
+      <node ref="R141" pin="1" pintype="passive"/>
+      <node ref="U2" pin="14" pintype="output"/>
+    </net>
+    <net code="148" name="Net-(R142-Pad1)">
+      <node ref="R142" pin="1" pintype="passive"/>
+      <node ref="U3" pin="14" pintype="output"/>
+    </net>
+    <net code="149" name="unconnected-(J3-Pad2)">
+      <node ref="J3" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="150" name="unconnected-(J4-Pad2)">
+      <node ref="J4" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="151" name="unconnected-(J6-Pad2)">
+      <node ref="J6" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="152" name="unconnected-(J7-Pad2)">
+      <node ref="J7" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="153" name="unconnected-(J10-Pad2)">
+      <node ref="J10" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="154" name="unconnected-(J11-Pad2)">
+      <node ref="J11" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="155" name="unconnected-(J13-Pad2)">
+      <node ref="J13" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="156" name="unconnected-(J14-Pad2)">
+      <node ref="J14" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="157" name="unconnected-(J18-Pad2)">
+      <node ref="J18" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="158" name="unconnected-(J19-Pad2)">
+      <node ref="J19" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="159" name="unconnected-(J20-Pad2)">
+      <node ref="J20" pin="2" pintype="passive+no_connect"/>
+    </net>
+    <net code="160" name="unconnected-(P1-Pad11)">
+      <node ref="P1" pin="11" pinfunction="Pin_11" pintype="passive+no_connect"/>
+    </net>
+    <net code="161" name="unconnected-(P1-Pad12)">
+      <node ref="P1" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="162" name="unconnected-(P1-Pad15)">
+      <node ref="P1" pin="15" pinfunction="Pin_15" pintype="passive+no_connect"/>
+    </net>
+    <net code="163" name="unconnected-(P1-Pad16)">
+      <node ref="P1" pin="16" pinfunction="Pin_16" pintype="passive+no_connect"/>
+    </net>
+    <net code="164" name="unconnected-(U11-Pad2)">
+      <node ref="U11" pin="2" pinfunction="Ibias" pintype="input+no_connect"/>
+    </net>
+    <net code="165" name="unconnected-(U11-Pad8)">
+      <node ref="U11" pin="8" pintype="passive+no_connect"/>
+    </net>
+    <net code="166" name="unconnected-(U11-Pad9)">
+      <node ref="U11" pin="9" pintype="passive+no_connect"/>
+    </net>
+    <net code="167" name="unconnected-(U11-Pad15)">
+      <node ref="U11" pin="15" pinfunction="Ibias" pintype="input+no_connect"/>
+    </net>
+    <net code="168" name="unconnected-(U12-Pad2)">
+      <node ref="U12" pin="2" pinfunction="Ibias" pintype="input+no_connect"/>
+    </net>
+    <net code="169" name="unconnected-(U12-Pad8)">
+      <node ref="U12" pin="8" pintype="passive+no_connect"/>
+    </net>
+    <net code="170" name="unconnected-(U12-Pad9)">
+      <node ref="U12" pin="9" pintype="passive+no_connect"/>
+    </net>
+    <net code="171" name="unconnected-(U12-Pad15)">
+      <node ref="U12" pin="15" pinfunction="Ibias" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
